@@ -30,7 +30,7 @@ This script allows users to check the average ping for a list of SNIs. It uses P
 
 ## Usage
 
-1. Ensure Python 3.x is installed on your system.
+1. Ensure Python 3.10 is installed on your system.
 2. Run the script:
 
     ```bash
