@@ -1,6 +1,5 @@
 # SNI Checker
 
-![SNI Checker](https://github.com/MhdiTaheri/SNIChecker)
 
 A Python script to check the average ping for a list of Server Name Indications (SNIs).
 
