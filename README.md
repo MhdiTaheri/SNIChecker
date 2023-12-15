@@ -17,7 +17,7 @@ This script allows users to check the average ping for a list of SNIs. It uses P
 
 One Tap Installation
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/MhdiTaheri/sms-bomber/main/run.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/MhdiTaheri/SNIChecker/main/install.sh)
 ```
 
 _**Or**_
